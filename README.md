@@ -73,6 +73,3 @@ To use this project:
     ```
 
 By following these instructions, you will be able to set up and run the project smoothly.
-
-![Caaaaaaaaake](Yeah_Cake.png)
-
